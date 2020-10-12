@@ -1,16 +1,8 @@
-## Hi there ⚡
-
-  <br/>
-  
-### Github Stats
+### ⚡ Github Stats
 [![Kyle](https://github-readme-stats.vercel.app/api?username=Kxnrl&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide=issues,stars)](https://github.com/Kxnrl)
-  
-<br/>
-  
-### Language Stats
+
+### ⚡ Language Stats
 [![Kyle](https://github-readme-stats.vercel.app/api/top-langs?username=Kxnrl&hide=c%2B%2B&theme=tokyonight&layout=compact)](https://github.com/Kxnrl)
-  
-  <br/>
 
 ### 📫 How to reach me: 
   * <img src="https://www.kxnrl.com/assets/images/LiliaQ.png" width="16" height="16" /> [Hyperion](https://www.kxnrl.com)
