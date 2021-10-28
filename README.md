@@ -1,6 +1,5 @@
-### 📫 How to reach me: 
-  *  [<img src="https://www.kxnrl.com/assets/images/LiliaQ.png" width="16" height="16" />](https://www.kxnrl.com)
-  
+### Hello
+[<img src="https://www.kxnrl.com/assets/images/LiliaQ.png" width="184" height="184" />](https://www.kxnrl.com)
   
 我看著你的臉 輕刷著和弦  
 初戀是整遍 手寫的從前  
