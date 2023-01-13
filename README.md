@@ -1,5 +1,6 @@
 ### Hello
 My name is Kyle, aka ``Kxnrl``, ``maoling``, ``xQy``, ``KyleL`` and ``KyleXtreme``.  
+I'm a self-taught, game/software developer from honkai world.  
 [Home Page](https://www.kxnrl.com)  
 <br>
-[<img src="https://www.kxnrl.com/assets/images/2023StarchasmNyx.jpg?v=2023" />](https://www.kxnrl.com)
+[<img src="https://www.kxnrl.com/assets/images/2023StarchasmNyx.jpg?v=2023.1.13" />](https://www.kxnrl.com)
